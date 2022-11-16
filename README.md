@@ -1,6 +1,6 @@
 # _Four Ways To Write A Pitch-Shifter_ example code
 
-This is the code used to produce the audio demos for the  ADC22 presentation: _Four Ways To Write A Pitch-Shifter_
+This is the code used to produce the audio demos for the  ADC22 presentation: _Four Ways To Write A Pitch-Shifter_.  It aimes for simplicity rather than performance.
 
 ## Organisation
 
