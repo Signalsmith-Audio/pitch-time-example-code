@@ -2,6 +2,8 @@
 
 This is the code used to produce the audio demos for the  ADC22 presentation: _Four Ways To Write A Pitch-Shifter_.  It aimes for simplicity rather than performance.
 
+The ideas from this code are used in the [Signalsmith Stretch](https://signalsmith-audio.co.uk/code/stretch/) library.
+
 ## Organisation
 
 All the different stretching methods are packed into one file.  It definitely could be tidier, and I hope to get to that soon - in the meantime, do get in contact if you have any questions about it.
